@@ -1,0 +1,6 @@
+{
+  "name": "Annovexa - B.Tech Academic Tracker",
+  "description": "Cutting-edge B.Tech academic intelligence dashboard, debar defense system, bunk forecaster, and CGPA simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,4 +1,4 @@
-# INNOVEX
+# INNOVEXA
 
 ## AI Student Academic Support System
 
